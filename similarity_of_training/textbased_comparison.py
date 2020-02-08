@@ -23,9 +23,10 @@ if __name__ == '__main__':
         FILE_LIMIT = len(files)
     combinations = itertools.combinations(range(FILE_LIMIT), 2)
     comparisons = [(idxa, files[idxa], idxb, files[idxb]) for idxa, idxb in combinations]
-    subset_size = 10000
+    subset_size = 1000
     subsets = [comparisons[x:x+subset_size] for x in range(0, len(comparisons), subset_size)]
     p = Pool(32)
+    print('output = []')
     for idx, subset in enumerate(subsets):
-        print('subset_' + str(idx) + ' = ', p.starmap(compare_strings, subset))
-        print()
+        print('# subset_{}'.format(idx))
+        print('output.extend({})'.format(p.starmap(compare_strings, subset)))
