@@ -26,7 +26,8 @@ if __name__ == '__main__':
     subset_size = 1000
     subsets = [comparisons[x:x+subset_size] for x in range(0, len(comparisons), subset_size)]
     p = Pool(32)
-    print('output = []')
-    for idx, subset in enumerate(subsets):
-        print('# subset_{}'.format(idx))
-        print('output.extend({})'.format(p.starmap(compare_strings, subset)))
+    with open("outout.py", "w") as out:
+        out.write('output = []\n')
+        for idx, subset in enumerate(subsets):
+            out.write('# subset_{}\n'.format(idx))
+            out.write('output.extend({})\n'.format(p.starmap(compare_strings, subset)))
