@@ -141,7 +141,7 @@ c /2 d /2 | e > d c c < c' b | g > ^f g c 2 e | d > c B B b g | f > e d /2 c /2 
 T:Cherish the ladies
 M:6/8
 K:Cmaj
- (3 G /2 A /2 B /2 | c E E G E E | C E G G F E | A D D F D D | F A G F E D | c E E G E E | C E G G E G | A B c d e f | e c c c 2 :| |: (3 G /2 A /2 B /2 | c e c B d B | c e c G F E | A D D F D D | F A G F E D | c e c B d B | c e c G F E | A B c d e f | e c c c 2 :| |: G | c e c B d B | c e c G F E | A z D F z D | F A G F E D | c F c B E B | c F c G 2 F | G > A B /2 c /2 d e f | e c c c 2 :| |: A | G c c e c c | g c c e c c | G /2 A /2 B c f e f | d B d f e d | g f e a f d | g e c B A G | (3 e /2 f /2 g /2 A 2 G F E | F D E F E D :| |: e 2 e g e c | e d c B c d | f 2 f f e f | d B d f e d | g f e a f d | g e c B A G | e c A G F E | F D E F E D :| |: C E G c G E | C E G A F D | C E G c G E | F D E F E D | C E G C F A | C E G c 2 d | e c A G F E | F D E F E D :|
+ (3 G /2 A /2 B /2 | c E E G E E | C E G G F E | A D D F D D | F A G F E D | c E E G E E | C E G G E G | A B c d e f | e c c c 2 :| |: (3 G /2 A /2 B /2 | c e c B d B | c e c G F E | A D D F D D | F A G F E D | c e c B d B | c e c G F E | A B c d e f | e c c c 2 :| |: G | c e c B d B | c e c G F E | A z D F z D | F A G F E D | c F c B E B | c F c G 2 F | G > A B /2 c /2 d e f | e c c c 2 :| A |: G c c e c c | g c c e c c | G /2 A /2 B c f e f | d B d f e d | g f e a f d | g e c B A G | (3 e /2 f /2 g /2 A 2 G F E | F D E F E D :| |: e 2 e g e c | e d c B c d | f 2 f f e f | d B d f e d | g f e a f d | g e c B A G | e c A G F E | F D E F E D :| |: C E G c G E | C E G A F D | C E G c G E | F D E F E D | C E G C F A | C E G c 2 d | e c A G F E | F D E F E D :|
 
 T:Welcome to Cork
 M:6/8
@@ -246,7 +246,7 @@ A | A G A B 2 G | A G A B 2 G | A c A G E C | D E D D 2 B | A G A B 2 G | A G A 
 T:Daniel O'Rourke
 M:6/8
 K:Cmaj
-a /2 g /2 | f c A A c A | f c A f a g | f c A A c A | d _B G G 2 e | f c A A c A | f c A f g a | g e c f d B | c d c c 2 :| |: z | c 2 a g e c | g e c e f g | c 2 a g e c | d B G B c d | c 2 a g e c | g e c e f g |1 a f d g e c | d B G B c d :| |2 A f d B G B | c d c c 2 |: A /2 B /2 | c 2 c' c' g f | e c c c d e | f g f a f d | B G G G 2 A /2 B /2 | c 2 c' c' g f | e c c c 2 c /2 B /2 | A f d B G B | c d c c 2 :|
+a /2 g /2 | f c A A c A | f c A f a g | f c A A c A | d _B G G 2 e | f c A A c A | f c A f g a | g e c f d B | c d c c 2 :| z |: c 2 a g e c | g e c e f g | c 2 a g e c | d B G B c d | c 2 a g e c | g e c e f g |1 a f d g e c | d B G B c d :| |2 A f d B G B | c d c c 2 |: A /2 B /2 | c 2 c' c' g f | e c c c d e | f g f a f d | B G G G 2 A /2 B /2 | c 2 c' c' g f | e c c c 2 c /2 B /2 | A f d B G B | c d c c 2 :|
 
 T:O'Sullivan's march
 M:6/8
@@ -441,12 +441,12 @@ A | G C C A G E | G A c d c A | G C C A G E | G E D D 2 E | G C C A G E | G A c 
 T:The boys of the town
 M:6/8
 K:Cmaj
-G, | C B, C C E G | A G E G E D | C B, C C E G | A G E D B, G, | C B, C C E G | A G E c B c | A G E D C D | E C C C 2 :| |: E | G A B c B c | d B G A B E | G A B c B c | d B G A 2 G |1 G A B c B c | d B G A B c | A G E D C D | E C C C 2 E :| |2 G A B c e e | B d d A B c | A G E D C D | E C C C 2 |
+G, | C B, C C E G | A G E G E D | C B, C C E G | A G E D B, G, | C B, C C E G | A G E c B c | A G E D C D | E C C C 2 :| |: E | G A B c B c | d B G A B E | G A B c B c | d B G A 2 G |1 G A B c B c | d B G A B c | A G E D C D | E C C C 2 :| |2 G A B c e e | B d d A B c | A G E D C D | E C C C 2 |
 
 T:Petticoat loose
 M:6/8
 K:Cmin
-c | B G G e G G | B A B B e c | B G G e G G | c 3 c /2 d /2 e c | B G G e G G | e f g g c' b | a f g e c B |1 G c c c /2 d /2 e c :| |2 G c c c 2 |: =a | b 3 b g f | e c c d e f | g c' c' c' b g | g f f f 2 =a | b c' a b g f | e c c d e f | g _a /2 g /2 f e c B | G c c c 2 :|
+c | B G G e G G | B A B B e c | B G G e G G | c 3 c /2 d /2 e c | B G G e G G | e f g g c' b | a f g e c B |1 G c c c /2 d /2 e :| |2 G c c c 2 |: =a | b 3 b g f | e c c d e f | g c' c' c' b g | g f f f 2 =a | b c' a b g f | e c c d e f | g _a /2 g /2 f e c B | G c c c 2 :|
 
 T:The tailor's thimble
 M:6/8
@@ -471,7 +471,7 @@ G, | C 3 E 2 C | F 2 D E 2 C | C E G F D C | B, 3 G, A, B, | C D C E 2 C | F 2 D
 T:The sheep on the mountains
 M:6/8
 K:Cmaj
-C | E 3 F 3 | G < c A B G F | G 3 c 3 | G 3 c 3 | E 3 F 3 | G 2 c B G E | F 3 G E C | F 3 G E C | E 3 F 3 | G < c A B G F | G A /2 G /2 F /2 G /2 c 3 | G A /2 G /2 F /2 G /2 c 3 | E E E F F F | G < c A B G E | F 3 G E C | F E D C 2 | e | e d c d e f | g e c B G F | G 3 c 3 | G 3 c 3 | e d c d e f | g e c B G E | F 3 G E C | F 3 G E C | e d c d e f | g e c B G F | G 3 c 3 | G 3 c 3 | e 3 f 3 | g e c B G E | F 3 G E C | F 3 G E C :|
+C | E 3 F 3 | G < c A B G F | G 3 c 3 | G 3 c 3 | E 3 F 3 | G 2 c B G E | F 3 G E C | F 3 G E C | E 3 F 3 | G < c A B G F | G A /2 G /2 F /2 G /2 c 3 | G A /2 G /2 F /2 G /2 c 3 | E E E F F F | G < c A B G E | F 3 G E C | F E D C 2 | e | e d c d e f | g e c B G F | G 3 c 3 | G 3 c 3 | e d c d e f | g e c B G E | F 3 G E C | F 3 G E C | e d c d e f | g e c B G F | G 3 c 3 | G 3 c 3 | e 3 f 3 | g e c B G E | F 3 G E C | F 3 G E :|
 
 T:Our own little isle
 M:6/8
@@ -796,7 +796,7 @@ c /2 d /2 | e c c B G G | A F F G 2 F | E G G c d e | f e f d g g | e c c B G G 
 T:The kneebuckle
 M:6/8
 K:Cmix
-g | g c c g c c | g a g g f d | g c c g b g | f d c c 2 e /2 f /2 | g c c g c c | g a g g f d | f g a b a g | f d c c 2 :| |: c' | c' a c' b g b | a f a g e c | c' a c' b g b | f e d c 2 c' | c' a c' b g b | a f a g e c | f g a b a g f d c c 2 :|
+g | g c c g c c | g a g g f d | g c c g b g | f d c c 2 e /2 f /2 | g c c g c c | g a g g f d | f g a b a g | f d c c 2 :| |: c' | c' a c' b g b | a f a g e c | c' a c' b g b | f e d c 2 c' | c' a c' b g b | a f a g e c | f g a b a g | f d c c 2 :|
 
 T:The sod of turf
 M:6/8
@@ -831,7 +831,7 @@ G | c d c c e g | c' 2 c c 2 d | e f g f e d | c d c B A G | c d c c e g | c' 2 
 T:The boys of Ballinamore
 M:6/8
 K:Cmix
-c /2 A /2 | B G E F 2 F | G A B G c A | B G E F E F | G c d e d c | B G E F 2 F | G A B G c A | B G E F E F | G c =B c 2 :| |: f | e d c d e f | d B B f B B | e d c d e f | g f d c 2 c /2 d /2 | e d c d e f | d B B f B B | e g e d /2 e /2 f d | c 2 d e d c :|
+c /2 A /2 | B G E F 2 F | G A B G c A | B G E F E F | G c d e d c | B G E F 2 F | G A B G c A | B G E F E F | G c =B c 2 :| f |: e d c d e f | d B B f B B | e d c d e f | g f d c 2 c /2 d /2 | e d c d e f | d B B f B B | e g e d /2 e /2 f d | c 2 d e d c :|
 
 T:Miss Blair's fancy
 M:6/8
@@ -876,7 +876,7 @@ D |: E > D E C 2 G, | C > D C C E G | F E D C B, C | D G A G F D | E > D E C 2 G
 T:Owen Malone
 M:6/8
 K:Cmaj
-E /2 F /2 | G E C C c A | G E C C c A | G F E G F E | D E D D E F | G E C C c A | G E C C c A | G A B c G E | C > D C C 2 :| |: E G G D G G | c d c B 2 G | E G G D G G | c A ^F G A =F | E G G D G G | c d c B 2 A | G A B c G E | C > D C C 2 :|
+E /2 F /2 | G E C C c A | G E C C c A | G F E G F E | D E D D E F | G E C C c A | G E C C c A | G A B c G E |1 C > D C C 2 :| |2 C > D C C 3 |: E G G D G G | c d c B 2 G | E G G D G G | c A ^F G A =F | E G G D G G | c d c B 2 A | G A B c G E | C > D C C 3 :|
 
 T:Bessy Murphy
 M:6/8
@@ -961,7 +961,7 @@ E 2 E F 2 F | G 2 C F D C | E 2 E F 2 F | G c B c > B A /2 G /2 | E 2 E F 2 F | 
 T:The woodcock
 M:6/8
 K:Cmaj
-G, C C E C C | G C C E C C | G, C C E D C | B, D D E C A, | G, C C E C C | G C C E C C | G, C C D E F |1 E C D C A, G, :| |2 E C C C 2 | (3 D /2 E /2 F /2 | G 2 c E 2 G | D /2 E /2 F D E C A, | G, C C E D C | B, D D D E F | G 2 c E 2 G | D /2 E /2 F D E C A, | G, C C D E F | E C C C D E /2 F /2 | G c B A G F | D /2 E /2 F D E C A, | G, C C E D C | B, D D D E F | G c B A G F | D /2 E /2 F D E C A, | G, C C D E F | E C C C 2 |
+G, C C E C C | G C C E C C | G, C C E D C | B, D D E C A, | G, C C E C C | G C C E C C | G, C C D E F |1 E C D C A, G, :| |2 E C C C 2 (3 D /2 E /2 F /2 | G 2 c E 2 G | D /2 E /2 F D E C A, | G, C C E D C | B, D D D E F | G 2 c E 2 G | D /2 E /2 F D E C A, | G, C C D E F | E C C C D E /2 F /2 | G c B A G F | D /2 E /2 F D E C A, | G, C C E D C | B, D D D E F | G c B A G F | D /2 E /2 F D E C A, | G, C C D E F | E C C C 3 |
 
 T:Dunmanway lasses
 M:6/8
@@ -1061,7 +1061,7 @@ C | C > D C G, E, G, | C E G A 2 G | c > E E E D C | F > A, A, A, 2 G, | C > D C
 T:Before I was married
 M:6/8
 K:Cmaj
-G /2 F /2 | E F G G e d | c A A A 2 G /2 F /2 | E F G G c d | e c c c 2 G /2 F /2 | E F G G e d | c A A A 2 G /2 F /2 | E F G G g f | e c c c 2 :| |: c /2 d /2 | e d e g e d | c A B c 2 c /2 d /2 | e f e d c d | e c A A 2 c /2 d /2 | e d e g e d | c A B c 2 c /2 d /2 | e g e d c d | e c A A 2 _D C :|
+G /2 F /2 | E F G G e d | c A A A 2 G /2 F /2 | E F G G c d | e c c c 2 G /2 F /2 | E F G G e d | c A A A 2 G /2 F /2 | E F G G g f | e c c c 2 :| |: c /2 d /2 | e d e g e d | c A B c 2 c /2 d /2 | e f e d c d | e c A A 2 c /2 d /2 | e d e g e d | c A B c 2 c /2 d /2 | e g e d c d | e c A A 2 :|
 
 T:The old grey goose
 M:6/8
@@ -1186,7 +1186,7 @@ D | E D E C A, G, | A, B, C C D E | E D E C A, G, | A, D D D E F | E D E C A, G,
 T:The old horned sheep
 M:6/8
 K:Cmaj
- (3 G /2 A /2 B /2 | c 2 C C B, C | A, C C G, C C | c 2 C C B, C | A, D C B, A, G, | c 2 C C B, C | A, C C G, C C | A, C C B, C D | E C C C 2 :| |: z | E G G G E C | E G G G 2 C | E G G G E C | F D D D 2 F | E G G G E C | E G G G A B | c B A G F E | D E C B, A, G, :|
+ (3 G /2 A /2 B /2 | c 2 C C B, C | A, C C G, C C | c 2 C C B, C | A, D C B, A, G, | c 2 C C B, C | A, C C G, C C | A, C C B, C D | E C C C 2 :| z |: E G G G E C | E G G G 2 C | E G G G E C | F D D D 2 F | E G G G E C | E G G G A B | c B A G F E | D E C B, A, G, :|
 
 T:The Laccarue boys
 M:6/8
@@ -1201,7 +1201,7 @@ G, | C 2 A G E C | B, 2 B F D B, | C 2 A G F D | E D C c 2 c /2 d /2 | e d c B A
 T:Sergt Stack's favorite
 M:6/8
 K:Cmaj
-c /2 d /2 | e 3 d e d | c B G B c d | e 3 f e f | g /2 a /2 b g c' /2 b /2 g f | e 3 d e d | c B G B c d | e d c B G F | G c c c 2 :| |: c /2 d /2 | e /2 f /2 g a b a b | g c' a b g f /2 d /2 | e /2 f /2 g a b a b | g c' b c' 2 c /2 d /2 | e /2 f /2 g a b a b | g c' d' c' b g /2 f /2 | e 3 f 3 | g g e f a g /2 f /2 :|
+c /2 d /2 | e 3 d e d | c B G B c d | e 3 f e f | g /2 a /2 b g c' /2 b /2 g f | e 3 d e d | c B G B c d | e d c B G F | G c c c 2 :| c /2 d /2 |: e /2 f /2 g a b a b | g c' a b g f /2 d /2 | e /2 f /2 g a b a b | g c' b c' 2 c /2 d /2 | e /2 f /2 g a b a b | g c' d' c' b g /2 f /2 | e 3 f 3 | g g e f a g /2 f /2 :|
 
 T:The ruins of Killmallock
 M:6/8
@@ -1226,7 +1226,7 @@ G E C D 2 C | G E C D E F | G E C D 2 C | F D B, D E F | G E C D 2 C | G E C D E
 T:The mooncoin jig
 M:6/8
 K:Cmix
-g /2 f | e d c c G c | c G c d e f | e d c c e g | f d B d e f | e d c c G c | c G c d e f | c e g b a g | f d B d e f :| |: e f g g a b | a /2 b /2 c' a b g f | e f g g a b | a /2 b /2 c' c d e f | e f g g a b | c' a f d' b g | c' a f b g e | f d B d e f :| |: e d c c c' a | g e c d e f | e d c b a g | f d B d e f | e d c c c' c' | c b b c a a | c g g g a b | f d B d e f :|
+e d c c G c | c G c d e f | e d c c e g | f d B d e f | e d c c G c | c G c d e f | c e g b a g | f d B d e f :| |: e f g g a b | a /2 b /2 c' a b g f | e f g g a b | a /2 b /2 c' c d e f | e f g g a b | c' a f d' b g | c' a f b g e | f d B d e f :| |: e d c c c' a | g e c d e f | e d c b a g | f d B d e f | e d c c c' c' | c b b c a a | c g g g a b | f d B d e f :|
 
 T:The bashful maid
 M:6/8
@@ -1421,7 +1421,7 @@ G /2 F /2 | E G C E D C | E G C E D C | F A F E G E | D E D D E F | E G C E D C 
 T:Strop the razor 1st setting
 M:6/8
 K:Cmaj
-G, | G, C C E D C | D B, G, B, G, F, | G, C C E D C | D G G F D C | G, C C E D C | D B, G, B, 2 C | B, A, G, B, 2 C | D G G F D C :| |: G, C C C 2 D | G, B, B, B, 2 C | G, C C C B, C | D G G F D C | G, C C C 2 D | G, B, B, B, 2 C | B, A, G, B, 2 C | D G G F D C :|
+G, C C E D C | D B, G, B, G, F, | G, C C E D C | D G G F D C | G, C C E D C | D B, G, B, 2 C | B, A, G, B, 2 C | D G G F D C :| |: G, C C C 2 D | G, B, B, B, 2 C | G, C C C B, C | D G G F D C | G, C C C 2 D | G, B, B, B, 2 C | B, A, G, B, 2 C | D G G F D C :|
 
 T:Strop the razor 2nd setting
 M:6/8
@@ -1466,7 +1466,7 @@ b | c' g f e d c | g e c c 2 b | c' g f e d c | f d B B 2 b | c' g f e d c | f g
 T:The rivals
 M:6/8
 K:Cdor
-c' /2 b /2 | g e c c > d c | e d c c c' a | g e c c > d c | f d B B d f | e d c c > d c | g e c c e g | a g f g f =e | f d B c 2 :| e /2 d /2 |: c > c' c' c' g c' | e d c c d c | c > c' c' g a b | f d B B e d | c c' c' c' g c' | a b c' g a b | a g f g f =e | f d B c 2 e /2 d /2 :| |: c > c' c' g 2 c' | e d c c > e d | c > c' c' g a b | f d B B e d | c c' c' g a b | a b c' g a b | a g f g f =e | f d B c 2 :|
+c' /2 b /2 | g e c c > d c | e d c c c' a | g e c c > d c | f d B B d f | e d c c > d c | g e c c e g | a g f g f =e | f d B c 2 :| e /2 d /2 |: c > c' c' c' g c' | e d c c d c | c > c' c' g a b | f d B B e d | c c' c' c' g c' | a b c' g a b | a g f g f =e | f d B c 2 e /2 d /2 :| |: c > c' c' g 2 c' | e d c c > e d | c > c' c' g a b | f d B B e d | c c' c' g a b | a b c' g a b | a g f g f =e | f d B c 2 d :|
 
 T:All alive
 M:6/8
@@ -1586,7 +1586,7 @@ G /2 F /2 | E C C G, C C | E C E G F E | F D D B, D D | F D F A G F | E C C G, C
 T:The merry huntsman
 M:6/8
 K:Cmaj
-e /2 d /2 | c G E E G E | c G E c e d | c G E E G E | A F D D 2 B | c G E E G E | c G E B c d | e c G d B G | A F D D 2 :| |: z | G 2 e d B G | d B G B c d | G 2 e d B G | A ^F D F G A | G 2 e d B G | d B G B c d | e c A d B G |1 A ^F D F G A :| |2 A ^F D c e d |
+e /2 d /2 | c G E E G E | c G E c e d | c G E E G E | A F D D 2 B | c G E E G E | c G E B c d | e c G d B G | A F D D 2 :| z |: G 2 e d B G | d B G B c d | G 2 e d B G | A ^F D F G A | G 2 e d B G | d B G B c d | e c A d B G |1 A ^F D F G A :| |2 A ^F D c e d |
 
 T:The fairy jig
 M:6/8
@@ -1651,7 +1651,7 @@ G /2 F /2 | E D E C G, G, | C E G c G E | F c F E F G | A F D D E F | E D E C G,
 T:The foot of the mountain
 M:6/8
 K:Cmaj
-C > D | E 3 E D C | D G G G F D | E 3 E D C | B, D D D B, G, | E 3 E D C | D G G G F D | G, C C F D B, | D C C C 2 :| |: G, | G, C C B, G, G, | G, C C B, G, G, | G, C C D C B, | F D C D B, G, | G, C C B, G, G, | G, C C B, G, G, | G, C C F D B, | D C C C 2 :|
+D | E 3 E D C | D G G G F D | E 3 E D C | B, D D D B, G, | E 3 E D C | D G G G F D | G, C C F D B, | D C C C 2 :| |: G, | G, C C B, G, G, | G, C C B, G, G, | G, C C D C B, | F D C D B, G, | G, C C B, G, G, | G, C C B, G, G, | G, C C F D B, | D C C C 2 :|
 
 T:The maids of Ballinacarty
 M:6/8

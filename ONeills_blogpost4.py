@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar  9 12:43:17 2020
-Look at tune structures via measure symbols
+This code contributed to the blog post:
+    https://highnoongmt.wordpress.com/2020/03/19/an-analysis-of-the-365-double-jigs-in-oneills-pt-4/
     
 @author: bobs
 """
@@ -85,7 +86,7 @@ df['timespace'] = timespace
     
 #%% plot time-domain representation of intervals
 tunetoplot = 218-1 # Connaughtman's Rambles
-tunetoplot = 284-1 # The Killashandra lasses
+tunetoplot = 284-1 # Kitty of Oulart
 params = {'legend.fontsize': 'x-large',
       'figure.figsize': (10, 5),
      'axes.labelsize': 'x-large',

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar  9 12:43:17 2020
-This code contributed to the blog post:
+This code contributed to the blog post: https://highnoongmt.wordpress.com/2020/03/13/an-analysis-of-the-365-double-jigs-in-oneills-pt-2/
     
 @author: bobs
 """
