@@ -151,13 +151,14 @@ params = {'legend.fontsize': 'x-large',
 plt.rcParams.update(params)
 fig = plt.figure()
 ax = fig.add_subplot(111)
+plt.scatter(np.log10(tunelengths),marginalscore,alpha=0.0)
 for nn in range(numtunes):
-    plt.text(np.log10(tunelengths[nn]),[nn],str(nn+1),
+    plt.text(np.log10(tunelengths[nn]),marginalscore[nn],str(nn+1),
              rotation=45,horizontalalignment="center",verticalalignment="center")
     
-h = []
-h.append(plt.scatter(np.log10(tunelengths[np.where(df.key=='Cmaj')]),
-            marginalscore[np.where(df.key=='Cmaj')],c='b',alpha=0))
+#h = []
+#h.append(plt.scatter(np.log10(tunelengths[np.where(df.key=='Cmaj')]),
+#            marginalscore[np.where(df.key=='Cmaj')],c='b',alpha=0))
 #h.append(plt.scatter(np.log10(tunelengths[np.where(df.key=='Cmin')]),
 #            marginalscore[np.where(df.key=='Cmin')],c='r',alpha=0))
 #h.append(plt.scatter(np.log10(tunelengths[np.where(df.key=='Cmix')]),
